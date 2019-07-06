@@ -11,3 +11,5 @@ useful ones
 - never seen ones that who had perfect designes
 - personally tried many differnt with Sketch 'cause i need something like that
 
+open source to look for
+- timer
