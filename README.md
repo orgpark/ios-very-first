@@ -13,3 +13,10 @@ useful ones
 
 open source to look for
 - timer
+
+features
+- timer
+- picture
+- video
+- check box
+- summary
